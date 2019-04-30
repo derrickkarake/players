@@ -1,7 +1,7 @@
 var observable_1 = require('data/observable');
 var observable_array_1 = require('data/observable-array');
 var http = require('http');
-var beer_1 = require('../models/beer');
+var beer_1 = require('../models/player');
 var BeersViewModel = (function (_super) {
     __extends(BeersViewModel, _super);
     function BeersViewModel() {
